@@ -1,5 +1,5 @@
 ## Hi there 👋
-    Eu sou José WIlliam, programador Front-End em constante aprendizado, atualmente estou aprendendo e criando
+    💻 Eu sou José WIlliam, programador Front-End em constante aprendizado, atualmente estou aprendendo e criando
     projetos com:
     -HTML
     -CSS
