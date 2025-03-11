@@ -8,6 +8,7 @@
      -Riact
      
     Esttudante de Inglês e apreciador da lingua.
+    Disposto a aprender novas tecnologias!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=william-2by)](https://github.com/anuraghazra/github-readme-stats)
 
